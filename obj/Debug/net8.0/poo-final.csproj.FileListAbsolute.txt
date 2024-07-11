@@ -1,0 +1,14 @@
+C:\POO\poo-final\bin\Debug\net8.0\poo-final.exe
+C:\POO\poo-final\bin\Debug\net8.0\poo-final.deps.json
+C:\POO\poo-final\bin\Debug\net8.0\poo-final.runtimeconfig.json
+C:\POO\poo-final\bin\Debug\net8.0\poo-final.dll
+C:\POO\poo-final\bin\Debug\net8.0\poo-final.pdb
+C:\POO\poo-final\obj\Debug\net8.0\poo-final.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\poo-final\obj\Debug\net8.0\poo-final.AssemblyInfoInputs.cache
+C:\POO\poo-final\obj\Debug\net8.0\poo-final.AssemblyInfo.cs
+C:\POO\poo-final\obj\Debug\net8.0\poo-final.csproj.CoreCompileInputs.cache
+C:\POO\poo-final\obj\Debug\net8.0\poo-final.dll
+C:\POO\poo-final\obj\Debug\net8.0\refint\poo-final.dll
+C:\POO\poo-final\obj\Debug\net8.0\poo-final.pdb
+C:\POO\poo-final\obj\Debug\net8.0\poo-final.genruntimeconfig.cache
+C:\POO\poo-final\obj\Debug\net8.0\ref\poo-final.dll

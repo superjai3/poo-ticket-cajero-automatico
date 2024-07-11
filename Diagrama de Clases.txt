@@ -1,0 +1,61 @@
+Diagrama de Clases:
+
+
+Cliente:
+Nombre: string
+Apellido: string
+Dni: string
+Direccion: string
+Localidad: string
+Provincia: string
+CP: string
+NumeroCliente: int
+
+
+Transaccion:
+Monto: decimal
+Tipo: string (retiro o ingreso)
+Moneda: string (pesos o USD)
+Fecha: DateTime
+Cliente: Cliente
+Sucursal: Sucursal
+
+
+Sucursal:
+Numero: int
+NombreBanco: string
+Direccion: string
+Localidad: string
+Provincia: string
+
+
+
+
+Resumen del Flujo del Programa:
+
+1. Instanciación de Objetos:
+- Cliente,
+- Sucursal,
+- y Transacción se instancian en el Main.
+
+
+2. Impresión del Ticket:
+- Se llama al método ImprimirTicket del objeto Transacción para imprimir los detalles de la transacción.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
